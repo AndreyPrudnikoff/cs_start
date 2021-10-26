@@ -10,7 +10,7 @@
       "request": "launch",
       "preLaunchTask": "build",
       "program": "${workspaceFolder}src/GradeBook/bin/Debug/net5.0/GradeBook.dll",
-      "args": ["Scott"],
+      "args": [],
       "cwd": "${workspaceFolder}src/GradeBook",
       "stopAtEntry": false,
       "console": "internalConsole"
