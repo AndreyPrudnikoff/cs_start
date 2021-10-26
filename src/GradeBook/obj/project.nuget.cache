@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "WFlROOXoMYKeIhLNmQMEKTnvuLUCpcXKDZETZsQmnGHn0ina1eYPH3dP1dNQb8VNFKh9OnmVJpMC8nFsw6K0fQ==",
+  "dgSpecHash": "wJXJaOo3kr3FGEhRHTvDni51y8nkB35/ziHb186hmgZrHyQ3Fw79UL3Ofhdvd1dxSspxloAIF/FwkB54cIHGjg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Andrey\\WebstormProjects\\gradebook\\src\\GradeBook\\GradeBook.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrey\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
