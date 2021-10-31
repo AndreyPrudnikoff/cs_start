@@ -77,6 +77,21 @@ namespace GradeBook
       return result;
     }
     private List<double> grades;
-    public string Name;
+    public string Name
+    {
+      get
+      {
+        return name;
+      }
+      set
+      {
+        if (!String.IsNullOrEmpty(value))
+        {
+          name = value;
+        }
+      }
+    }
+    public string name;
+    public const string CATEGORY = "Science";
   }
 }
