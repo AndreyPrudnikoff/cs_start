@@ -29,6 +29,7 @@ namespace GradeBook
         }
         catch (FormatException ex)
         {
+          Console.WriteLine(ex.Message);
           book.AddGrade(input);
         }
       }
